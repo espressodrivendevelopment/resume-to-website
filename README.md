@@ -1,30 +1,39 @@
-# Resume to website
+# 📄 Resume to Web
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+A modern, high-performance portfolio website generated from a resume. This project focuses on clean typography, professional layout, and seamless user experience.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rooghosh356-8915s-projects/v0-resume-to-website)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/bLEHb14R2BO)
+---
 
-## Overview
+## 🎨 Design Attribution
+This project's UI/UX was conceptualized and generated using **[v0 by Vercel](https://v0.dev)**. 
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+By leveraging v0's generative UI capabilities, the interface was built using a combination of:
+* **AI-Driven Layouts:** Structured for optimal readability and professional flow.
+* **Shadcn UI:** High-quality, accessible components.
+* **Tailwind CSS:** For a utility-first, responsive styling approach.
 
-## Deployment
+---
 
-Your project is live at:
+## ✨ Features
+* **Responsive Design:** Looks great on mobile, tablet, and desktop.
+* **Dark Mode:** Built-in support for light/dark theme toggling.
+* **Optimized for Performance:** Near-perfect Lighthouse scores.
+* **Print-Friendly:** Custom CSS ensure the site looks like a professional resume when printed or saved as a PDF.
 
-**[https://vercel.com/rooghosh356-8915s-projects/v0-resume-to-website](https://vercel.com/rooghosh356-8915s-projects/v0-resume-to-website)**
+## 🛠️ Tech Stack
+* **Framework:** [Next.js](https://nextjs.org/)
+* **UI Components:** [Shadcn UI](https://ui.shadcn.com/)
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Icons:** [Lucide React](https://lucide.dev/)
+* **Deployment:** [Vercel](https://vercel.com/)
 
-## Build your app
+## 🚀 Getting Started
 
-Continue building your app on:
+### 1. Prerequisites
+Ensure you have [Node.js](https://nodejs.org/) installed (v18 or higher recommended).
 
-**[https://v0.app/chat/bLEHb14R2BO](https://v0.app/chat/bLEHb14R2BO)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 2. Installation
+```bash
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+cd YOUR_REPO_NAME
+npm install
